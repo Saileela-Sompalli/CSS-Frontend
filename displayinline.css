@@ -1,0 +1,8 @@
+div
+{
+    height:200px;
+    width:400px;
+    margin:5px;
+    background-color:lightblue;
+    display:inline-block;
+}
